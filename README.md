@@ -1,3 +1,3 @@
-SCA means source codoe analysis. So this repository is intent to analysis the source code of rocket mq.
+SCA means source codo analysis. So this repository is intent to analysis the source code of rocket mq.
 
 Rocketmq源码解析
